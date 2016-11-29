@@ -1,0 +1,17 @@
+{
+  "name": "twitter_stalk",
+  "version": "1.0.0",
+  "description": "ADD update , auto respond on twitter using CL",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Harsha Attray",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
